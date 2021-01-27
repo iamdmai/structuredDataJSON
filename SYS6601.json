@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "SYS6601",
+  "mpn" : "SYS6601-05-P3",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-som-ref-design-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-som-ref-design-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/6/6601-reference-design-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6601™ Hardware Development Kits (SYS6601)",
+  "description" : "The Inforce 6601 Hardware Development Kits(SYS6601) Platform for embedded designers is a complete kit equipped with an industry leading Inforce 6601 Micro SoM and a Mini-ITX carrier board to bring out the excellent functionality and compute power of the Qualcomm Snapdragon 820 processor. Along with several standard peripherals, the reference design makes it a very powerful, feature-rich, versatile, and easy-to-use platform for embedded developers to create, test, and optimize their products. Embedded developers get access to the latest Snapdragon 820 processor from Qualcomm(APQ8096 SoC) through this reference design.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/reference-designs/qualcomm-snapdragon-820-inforce-6601-reference-design",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$550.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

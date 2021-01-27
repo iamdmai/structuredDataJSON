@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IOT6320",
+  "mpn" : "IOT6320-10-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-lv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-rv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-fv_2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-pv2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6320-snapdragon410e-apq8016e-application-ready-platform-sv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/3/6320-arp-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6320™ Application Ready Platform",
+  "description" : "Inforce’s newest application ready platform is powered by the Qualcomm® Snapdragon™ 410E quad-core ARM®v8 Cortex®-A53 application processor (APQ8016E). The Inforce 6320 is a compact networking platform that supports industrial grade operating temperatures and can be easily adapted to deliver wide-ranging solutions in the IoE space like edge gateways with an option for routing capabilities to integrate connected devices. The platform comes with a high quality fanless enclosure made of sheet metal and Aluminium heatsink for excellent emission control and heat dissipation and has an option for DIN rail mounting. This application-ready platform features Dual Ethernet ports that enable Power Over Ethernet supporting 802.3at complaint PD/PSE configuration apart from I/Os like USB2.0, Gigabit Ethernet, Wi-Fi, and Bluetooth. Inforce 6320 is guaranteed long-life with a committed supply.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/application-ready-platforms/qualcomm-snapdragon-410-inforce-6320",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$0.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" : "https://youtu.be/u7kSU5hcQKc",
+  "name" : "INFORCE™ 6320 Application Ready Platform",
+  "description" : "The Inforce 6320 is a compact networking platform that supports industrial grade operating temperatures and can be easily adapted to deliver wide-ranging solutions in the IoE space like edge gateways with an option for routing capabilities to integrate connected devices. Inforce 6320 has full support for Debian and Ubuntu Core(Snappy) OSes and is guaranteed long-life with a committed supply.",
+  "uploadDate" : "18-07-04T08:00:00+08:00",
+  "duration" : "PT1M35S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/u7kSU5hcQKc/mq2.jpg?sqp=CICGxYAG&rs=AOn4CLCoya9NkU3fxTNE1ptoDMaoY6R7qw"
+</script>

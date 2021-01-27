@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6301",
+  "mpn" : "IFC6301-00-P2",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6301-snapdragon410e-apq8016e-system-on-module-pv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6301-snapdragon410e-apq8016e-system-on-module-fv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6301-snapdragon410e-apq8016e-system-on-module-bv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/3/6301-som-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6301™ Micro System On Module (SOM)",
+  "description" : "Snapdragon 410E processor based Inforce 6301 Micro System on Module (SOM) with extended temperature. Inforce 6301 Micro SOM joins a family of cross-compatible, tiny System On Modules(SOM) by Inforce Computing and specifically designed for various industrial and IoT applications which are , placed in severe environments, and in need of high performance and low power consumption such as in telemetrics for asset tracking, instrumentation, digital signage, surveillance, and robotics/drones. Powered by the Qualcomm Snapdragon 410E(APQ8016E) quad core CPU with Adreno 306 GPU and Hexagon DSP, the Inforce 6301 is perfect for compute-heavy applications that require BT/Wi-Fi/GPS connectivity, 1080p full HD w/ H.264/263 playback & capture and HEVC playback at 720p, 4-lane MIPI-DSI, and up to 13MP MIPI-CSI2 camera.",
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-410-inforce-6301-micro-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$85.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

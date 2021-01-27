@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "SYS6701",
+  "mpn" : "SYS6701-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6701-mainsite.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6502-first_2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6502-second_2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/7/6701-reference-design-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6701™ Hardware Development Kits (SYS6701)",
+  "description" : "The Inforce 6701 Hardware Development Kits(SYS6701) for embedded designers couples the Inforce 6701 Micro SoM with a small but complete carrier board to bring out all native interfaces and compute power of the Qualcomm Snapdragon 845 processor. The easy-to-use platform enables a quick time to market of embedded and Internet of Things (“IoT”) products that are based on the Qualcomm Snapdragon 845 processor. Inforce’s custom camera modules with up to 4K encode capability are plug-n-play accessories for this platform.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/reference-designs/qualcomm-snapdragon-845-inforce-6701-reference-design",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$600.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

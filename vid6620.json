@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" : "https://youtu.be/AFUql0iCriA",
+  "name" : "Inforce 6620™ Qualcomm Snapdragon based Application Ready Platform",
+  "description" : "Inforce 6620 is a custom designed turnkey solution powered by the #Qualcomm® #Snapdragon™ 820 Quad-core processor. This platform is designed exclusively to drive media solutions in an optimized, reliable and secure digital environment. The Snapdragon 820 processor, integrates Qualcomm® Kryo™ CPU, Adreno™ 530 GPU, Hexagon™ HVX-512 DSP, Qualcomm® AI Engine and the Spectra™ camera ISP to enable high-end industrial IoT applications, video analytics, advanced medical imaging and teleconferencing use-cases. These components, coupled with GbE Uplink powered by 802.3at PD compliant PoE, 802.11ac dual band WiFi, Bluetooth 4.x, 4K HDMI-Input and concurrent dual HDMI Outputs rendering capability, make the Inforce 6620 SBC a complete solution for Capturing/Streaming/Casting/Controlling UHD Video content. Optional SKUs include a fan-less plastic enclosure with in-built thermal dissipation and EMI shielding for better RF noise protection and improved performance. Inforce 6620 SBC comes CE certified out-of-the-box and is guaranteed long-life supply and support commitment from SMART Wireless Computing Inc.",
+  "uploadDate" : "20-07-21T08:00:00+08:00",
+  "duration" : "PT0M29S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/AFUql0iCriA/mq3.jpg?sqp=CNSDxYAG&rs=AOn4CLDg_ptXYhpIKRZuEcZbh_prtB_kPw"
+</script>

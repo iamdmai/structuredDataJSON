@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" : "https://youtu.be/u7kSU5hcQKc",
+  "name" : "INFORCE™ 6320 Application Ready Platform",
+  "description" : "The Inforce 6320 is a compact networking platform that supports industrial grade operating temperatures and can be easily adapted to deliver wide-ranging solutions in the IoE space like edge gateways with an option for routing capabilities to integrate connected devices. Inforce 6320 has full support for Debian and Ubuntu Core(Snappy) OSes and is guaranteed long-life with a committed supply.",
+  "uploadDate" : "18-07-04T08:00:00+08:00",
+  "duration" : "PT1M35S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/u7kSU5hcQKc/mq2.jpg?sqp=CICGxYAG&rs=AOn4CLCoya9NkU3fxTNE1ptoDMaoY6R7qw"
+</script>

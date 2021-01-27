@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6503",
+  "mpn" : "IFC6503-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6503_back.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6503_front.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6503_top.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6503-som-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6503™ Nano System On Module (SOM)",
+  "description" : "The Inforce 6503 Nano System on Module (SOM) is a compact compute module in an LGA package and can thus be directly soldered on to a carrier board. It is powered by the Qualcomm® Snapdragon™ 660 Octa-core processor. The Qualcomm Snapdragon 660(SDA660) processor, integrates Qualcomm®Kryo™ 260 CPU, Adreno™ 512 GPU, Hexagon™ 680 DSP, Qualcomm® AI Engine and the Spectra™ 160 camera ISP to enable advanced visual computing, enhanced graphics and on-device machine learning capabilities. These components, coupled with 2x2 802.11ac Wi-Fi, GPS/GLONASS, Haptics, Bluetooth 5.0, native full featured USB-C interface with UltraHD display capability and ample internal memory make the Inforce 6503 Nano SOM a perfect fit for rugged applications that obligate sturdy mechanical fitment and need low vertical profiles. Optional SKUs support extended operating temperature range and EMI shielding for better RF noise protection, while also doubling up as a medium for heat spreading and dissipation to improve performance. Inforce 6503 NanoSoM is guaranteed long-life supply and support commitment from SMART Wireless Computing Inc.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-660-inforce-6503-nano-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$0.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

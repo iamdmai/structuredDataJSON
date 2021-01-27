@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "ACC-1H10",
+  "mpn" : "ACC-1H10-P3",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1h10-new.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1h10-back-new.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc-1h10-diagram.jpg"
+  ],
+
+  "name" : "Inforce ACC-1H10 5 MP MIPI-CSI Camera Adapter",
+  "description" : "ACC-1H10 is a YUV format camera module that uses Omnivision’s OV5640 sensor. FullHD H264 video recording at 30fps and 5 Mega Pixel JPEG image capture is possible with this accessory which is suitable for all variants of Inforce platforms based on Snapdragon 410E and Snapdragon 600E. Low power consumption and a small form factor makes it an ideal camera peripheral. Features include anti-shake technology, AF Control, integrated JPEG compression engine, and automatic image control functions. The accessory comes with the necessary cables to interface with the MIPI-CSI FI-R connectors available on all compatible Inforce platforms.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/accessories/5mp-omnivision-ovs5640-camera-module-board-with-cable",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$125.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

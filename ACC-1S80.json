@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "ACC-1S80",
+  "mpn" : "ACC-1S80-00-P2",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s80_front.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/accc1s80_back.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s80.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/a/main.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc-1s80-diagram.jpg"
+  ],
+
+  "name" : "Inforce ACC-1S80 4K UHD Video Input Adapter",
+  "description" : "An UH2C/H2C Camera adapter board using Toshiba’s UHDMI to CSI conversion chip. It uses a Type A HDMI connector to receive the HDMI input and feeds CSI data into the Inforce platforms through two 41-pin MIPI-CSI connectors. There is no additional power supply required for this module. This module is capable of supporting 1080p resolution video input on a single CSI-2 using 4 lanes and 4k resolution video input using dual CSI-2 using 8 lanes. The necessary cables are included with this accessory to interface with the MIPI-CSI FI-R connectors available on all compatible Inforce platforms.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/accessories/uhdmi-input-card-with-cables-for-snapdragon-820",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$250.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

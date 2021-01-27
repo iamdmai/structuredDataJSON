@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6701",
+  "mpn" : "IFC6701-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6701-snapdragon845-sda845-system-on-module-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6701-snapdragon845-sda845-system-on-module-sv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6701-snapdragon845-sda845-system-on-module-sv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6701-snapdragon845-sda845-system-on-module-bv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6701-snapdragon845-sda845-system-on-module-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/7/6701-som-diagram.jpg",
+  ],
+
+  "name" : "Inforce 6701™ Micro System On Module (SOM)",
+  "description" : "The Inforce 6701 Micro System on Module (SOM)  is the newest compute module powered by Qualcomm® Snapdragon™ 845 that integrates Kryo™ 385 CPU, Adreno™ 630 GPU, Hexagon™ 685 DSP, Spectra™ 280 camera ISP and Qualcomm’s 3rd generation AI-Engine in a very small form factor. This enables optimized AI performance for a more responsive, power-efficient user-experience and capture of cinema-grade videos in UHD@60fps resolution. These components, coupled with 2x2 802.11ac Wi-Fi, Bluetooth 5.0 and GPS with RF connectors onboard, a full featured USB-C interface with UHD display capability and high fidelity audio make the Inforce 6701 Micro SoM a perfect fit for products that necessitate on-device AI and immersive multimedia experiences. Optional SKUs support extended operating temperature range and EMI shielding for better RF noise protection, while also doubling up as a medium for heat spreading and dissipation to further improve performance. The Inforce 6701 SoM is guaranteed long-life supply and support commitment from Inforce Computing Inc.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-845-inforce-67x1-micro-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$285.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" : "https://youtu.be/R6DyrE60n9s",
+  "name" : "Inforce 6701 System on Module (SOM) based on Qualcomm Snapdragon 845(SDA845/SD845)",
+  "description" : "Qualcomm SD845 (Snapdragon 845) based Inforce 6701 Micro SoM is a perfect fit for applications that necessitate on-device AI and immersive multimedia experiences. With its advanced performance, support for extended temperatures and compatibility with all Micro SoMs from Inforce, it is an ideal platform for compute intensive applications that specifically require Integrated Connectivity and immersive experiences. The SoM with Qualcomm 845 (SD845/SDA845) also introduces Adreno foveation, which substantially reduces power consumption, improves visual quality and boosts XR application performance, as compared to the previous generation.",
+  "uploadDate" : "20-09-22T08:00:00+08:00",
+  "duration" : "PT0M44S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/R6DyrE60n9s/maxresdefault.jpg?time=1611743100000&sqp=CPz-xIAG&rs=AOn4CLABEYuy2ERRzYW9WMIsL3df3eoIgg"
+</script>

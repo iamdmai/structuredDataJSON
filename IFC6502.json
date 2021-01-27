@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6502",
+  "mpn" : "IFC6502-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6502-snapdragon660-sda660-system-on-module-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6502-snapdragon660-sda660-system-on-module-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6502-snapdragon660-sda660-system-on-module-bv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6502-som-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6502™ Micro System On Module (SOM)",
+  "description" : "The Inforce 6502 Micro System on Module (SOM) is a compact compute module powered by the Qualcomm® Snapdragon™ 660 Octa-core processor. The Qualcomm Snapdragon 660 (SDA660) processor, integrates Qualcomm®Kryo™ 260 CPU, Adreno™ 512 GPU, Hexagon™ 680 DSP, Qualcomm® AI Engine and the Spectra™ 160 camera ISP to enable advanced visual computing, enhanced graphics and on-device machine learning capabilities. These components, coupled with 2x2 802.11ac Wi-Fi, GPS/GLONASS, Bluetooth 5.0, native full featured USB-C interface with UltraHD display capability and ample internal memory make the Inforce 6502 SoM a perfect fit for applications that have size, weight, and (low) power (SWaP) constraints. An optional SKU supports extended operating temperature range and EMI shielding for better RF noise protection, while also doubling up as a medium for heat spreading and dissipation to improve performance. Inforce 6502 SOM is guaranteed long-life supply and support commitment from Smart Wireless Computing.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-660-inforce-6502-micro-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$208.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

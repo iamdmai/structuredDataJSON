@@ -1,0 +1,93 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : [
+    "Organization",
+    "LocalBusiness",
+  ],
+
+  "@id" : "Smart Wireless Computing, Inc."
+  "additionalType" : "https://schema.org/ComputerStore",
+  "name" : "Smart Wireless Computing",
+  "alternateName" : "Inforce Computing",
+  "url" : "https://www.smartwirelesscompute.com",
+  "currenciesAccepted" : "USD",
+  "paymentAccepted": {
+    "MasterCard",
+    "Visa",
+    "AmericanExpress",
+    "Discover"
+  },
+  "priceRange": "$$",
+  "address" : {
+    "@type" : "PostalAddress",
+    "streetAddress" : "39870 Eureka Dr",
+    "addressLocality" : "Newark",
+    "addressRegion" : "California",
+    "postalCode" : "94560",
+    "addressCountry" : "https://en.wikipedia.org/wiki/United_States",
+    "name": "Smart Wireless Computing"
+  },
+
+  "description" : "Smart Wireless Computing is the leading creator of edge computing embedded designs powered by Qualcomm Snapdragon Processors.",
+  "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png",
+  "email" : "sales-wc@smartwirelesscompute.com",
+  "telephone" : "+1-510-623-1231",
+
+  "contactPoint" : [{
+    "type" : "ContactPoint",
+    "telephone" : "+1-510-623-1231",
+    "contactType" : "Customer Support",
+    "areaServed": "US"
+  }],
+
+  "geo" : {
+    "@type" : "GeoCoordinates",
+    "latitude" : 37.5087648,
+    "longitude" : -122.0037027
+  },
+
+  "openingHoursSpecification" : [{
+    "@type" : "OpeningHoursSpecification",
+    "dayOfWeek" : [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+      ],
+    "open" : "09:00",
+    "closes" : "18:00"
+    },
+
+  {
+    "@type" : "OpeningHoursSpecification",
+    "dayofWeek" : [
+      "Saturday",
+      "Sunday"
+      ],
+    "opens" : "00:00",
+    "closes" : "00:00"
+    },
+  }],
+
+  "mainEntityOfPage" : {
+    "@type" : "Webpage",
+    "@id" : "https://www.smartwirelesscompute.com/"
+  },
+
+  "sameAs" : [
+    "https://www.facebook.com/SmartWirelessComputing1",
+    "https://www.instagram.com/smartwirelesscomputing",
+    "https://g.page/SmartWirelessComputing?gm",
+    "https://inforcecomputing.business.site",
+    "https://www.linkedin.com/company/smart-wireless-computing",
+    "https://twitter.com/smartwirelesscp",
+    "https://www.youtube.com/c/InforceComputing",
+    "https://www.yelp.com/biz/smart-wireless-computing-newark",
+    "https://www.inforcecomputing.com",
+    "https://www.pinterest.com/SmartWirelessComputing"
+  ],
+
+}
+</script>

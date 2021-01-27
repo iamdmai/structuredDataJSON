@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6603",
+  "mpn" : "IFC6603-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/6/6601-som-blockdiagram.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/b/a/backoblique.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front_4.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/b/a/back-horizontal.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/6/6603-som-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6603™ Nano System On Module (SOM)",
+  "description" : "The Inforce 6603 Nano System on Module (SOM) is a compact compute module in an LGA package and can thus be directly soldered on to a carrier board. It is powered by the Qualcomm® Snapdragon™ 820 (APQ8096) Quad-core processor. This Nano SOM is designed exclusively to power collaboration and Video conferencing solutions and brings the power of Android and Windows 10 to teamwork. The Snapdragon 820 processor, integrates Qualcomm® Kryo™ CPU, Adreno™ 530 GPU, Hexagon™ HVX-512 DSP, Qualcomm® AI Engine and the Spectra™ camera ISP to enable high-end industrial IoT applications, video analytics, advanced medical imaging and IFPD use-cases. These components, coupled with concurrent GbE Uplink and GbE Downlink, 802.11ac DBS WiFi, Bluetooth 4.x, ample internal memory and concurrent VBO and HDMI in UltraHD rendering capability, make the Inforce 6603 SoM a perfect core for an all-in-one digital interactive meetings platform with which one can present, teach and collaborate. Optional SKUs support extended operating temperature range and EMI shielding for better RF noise protection, while also doubling up as a medium for heat spreading and dissipation to improve performance. Inforce 6603 NanoSoM is guaranteed long-life supply and support commitment from SMART Wireless Computing Inc.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-820-inforce-6603-nano-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$0.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

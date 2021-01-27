@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "ACC-1H70",
+  "mpn" : "ACC-1H70-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1h70back.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1h70corner.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1h70top_1.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc-1h70-diagram.jpg"
+  ],
+
+  "name" : "Inforce ACC-1H70 21 MP MIPI-CSI Camera Module",
+  "description" : "ACC-1H70 is a complete camera solution that uses Sony’s IMX230 sensor and is capable of capturing 4K Videos in HDR and taking 21 MP location photographs. This is the first CMOS sensor to feature an on-board image plane phase detection AF signal processing function that helps it achieve superior focus tracking of fast-moving objects. The accessory is completely plug and play and will work straight out of the box on all Inforce platforms running Android.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/accessories/21mp-sony-imx230-camera-module-board-with-cable",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$199.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

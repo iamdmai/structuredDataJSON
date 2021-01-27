@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6560",
+  "mpn" : "IFC6560-02-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-fv2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-pv2.png"
+  ],
+
+  "name" : "Inforce 6560™ Micro Single Board Computer (SBC)",
+  "description" : "Inforce’s newest SBC product is powered by the Qualcomm® Snapdragon™ 660 Octa-core processor. The Snapdragon 660 processor, integrates Qualcomm® Kryo™ 260 Octacore CPU, Adreno™ 512 GPU, Hexagon™ 680 DSP, Qualcomm® AI Engine and the Spectra™ 160 dual ISP to enable advanced visual computing, enhanced graphics and on-device machine learning capabilities coupled with AI-enabled user experiences. The Inforce 6560 SBC combines the heterogeneous compute capabilities of the Snapdragon™ 660 SoC with 2x2 802.11ac Wi-Fi, Bluetooth 5.x, a full featured USB-C interface with UltraHD display capability, an integrated battery charging circuitry with battery header, an on-board RTC and ample internal memory to make it a complete 4K encode/decode plug-n-play system. Inforce 6560 SBC is guaranteed long-life supply and support commitment from Inforce Computing Inc.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/single-board-computers-sbc/qualcomm-snapdragon-660-inforce-6560-sbc",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$220.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

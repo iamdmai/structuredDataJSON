@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6601",
+  "mpn" : "IFC6601-00-P3",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-system-on-module-pv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-system-on-module-fv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-system-on-module-bv.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-system-on-module-tv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6601-snapdragon820-apq8096-system-on-module-ov.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/6/6601-som-blockdiagram.png"
+  ],
+
+  "name" : "Inforce 6601™ Micro System On Module (SOM)",
+  "description" : "The Inforce 6601 Micro System on Module (SOM) is based on the latest Qualcomm® Snapdragon™ 820 embedded processor (APQ8096 SoC). The plug-and-play Inforce 6601 Micro SoM maintains pin, connector, electrical, and form-factor compatibility across the entire Micro SoM product line that shares a common carrier board design. This unique feature provides embedded designers a seamless upgrade path to state-of-the-art mobile technologies. The Inforce 6601 Micro SoM supports HDMI 2.0 based 4K Ultra HD display, hardware assisted (HEVC/H.265) 4K Ultra HD video capture, streaming, & playback, and up to 28MP camera support (Zero shutter lag) via dual image signal processors (ISPs). Measuring an ultra-small 28mm x 50mm and weighing under 11 grams (0.4oz), it fits the compute requirements of several SWaP (size, weight and power) constrained high-end embedded applications. Target end-uses that can benefit from these capabilities include high-end industrial IoT, video analytics, advanced medical imaging, AR/VR enhanced hands-free computing (HMD), and computer vision based commercial robots and drones.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/system-on-modules-som/qualcomm-snapdragon-820-inforce-6601-micro-som",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$270.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

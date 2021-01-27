@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "ACC-1S70",
+  "mpn" : "ACC-1S70-P2",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s70-second.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s70-front.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s70-back.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s70_ifc6309_2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc1s70-ifc6640-img_1.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/a/c/acc-1s70-diagram_1.jpg"
+  ],
+
+  "name" : "Inforce ACC-1S70 PoE RS845 Add-On Card",
+  "description" : "A credit card sized Power Over Ethernet accessory that allows you to power your Inforce 6309 and Inforce 6640 platforms and provide an Ethernet connection in any location with just a single cable. This also provides an isolated full duplex RS-485 Transceiver. The plug and play accessory supports extended temperatures and it will work straight out of the box.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/accessories/poe-rs485-add-on-card-for-ifc6309-and-ifc6640",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$100.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

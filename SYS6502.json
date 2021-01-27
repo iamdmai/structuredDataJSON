@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "SYS6502",
+  "mpn" : "SYS6502-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6502-default.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6502-first.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/s/y/sys6502-second.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6502-reference-design-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6502™ Hardware Development Kits (SYS6502)",
+  "description" : "The Inforce 6502 Hardware Development Kits(SYS6502) Platform for embedded designers couples the Inforce 6502 Micro SoM with a small but complete carrier board to bring out all native interfaces and compute power of the Qualcomm Snapdragon 660(SDA660) processor. The easy-to-use platform enables a quick time to market of embedded and Internet of Things (“IoT”) products that are based on the Qualcomm Snapdragon 660 processor. Inforce’s custom camera modules with up to 4K encode capability are plug-n-play accessories for this platform",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/reference-designs/qualcomm-snapdragon-660-inforce-6502-reference-design",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$500.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

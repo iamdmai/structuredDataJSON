@@ -1,0 +1,46 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6640",
+  "mpn" : "IFC6640-01-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-fv2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-pv2.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6560-snapdragon660-sda660-single-board-computer-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/5/6560-sbc-diagram.jpg"
+    ],
+
+  "name" : "Inforce 6640™ Single Board Computer (SBC)",
+  "description" : "The Inforce 6640 SBC is based on Qualcomm®’s first custom 64-bit quad-core processor, Snapdragon™ 820 (APQ8096 SoC) which is manufactured in an advanced 14nm FinFET Low Power Plus (LLP) fabrication process that allows faster switching speeds and lower voltage operation in a smaller footprint. With better imaging capabilities due to the Spectra™ camera ISP, an improved GPU architecture and excellent video and connectivity options, it is targeted at embedded system applications that require hi-tech smart visual technologies and intense video Analytics. It supports H.265 (HEVC) playback @4K60 and capture @4K30.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/single-board-computers-sbc/qualcomm-snapdragon-820-inforce-6640-sbc",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$289.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" :"https://youtu.be/8Xk0TFHqXV4",
+  "name" :"Introducing the all new Inforce 6640 powered by Snapdragon 820",
+  "description" : "The New Inforce 6640 SBC is based on Qualcomm®’s first custom 64-bit quad-core processor, Snapdragon™ 820 (APQ8096 SoC) which is manufactured in an advanced 14nm FinFET Low Power Plus (LLP) fabrication process that allows faster switching speeds and lower voltage operation in a smaller footprint. With better imaging capabilities due to the Spectra™ camera ISP, an improved GPU architecture and excellent video and connectivity options, it is targeted at embedded system applications that require hi-tech smart visual technologies and intense video analytics. It supports H.265 (HEVC) playback @4K60 and capture @4K30.",
+  "uploadDate" : "17-03-23T08:00:00+08:00",
+  "duration" : "PT1M08S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/8Xk0TFHqXV4/mq1.jpg?sqp=CICGxYAG&rs=AOn4CLBn151pNr8eGHakyrGunDrZ4RbtrQ"
+</script>

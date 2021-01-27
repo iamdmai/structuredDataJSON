@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "IFC6309",
+  "mpn" : "IFC6309X-00-P2",
+  "image" : [
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6309-snapdragon410e-apq8016e-single-board-computer-fv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6309-snapdragon410e-apq8016e-single-board-computer-pv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/i/n/inforce-6309-snapdragon410e-apq8016e-single-board-computer-bv.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/3/6309-sbc-diagram.jpg"
+  ],
+
+  "name" : "Inforce 6309™ Micro Single Board Computer (SBC)",
+  "description" : "Inforce 6309™ Micro SBC powered by the Qualcomm® Snapdragon™ 410E application processor (APQ8016E). The plug-and-play Inforce 6309 Micro SBC reference design provides industrial IoE system designers instant access to the compute power, comprehensive I/O, and connectivity of the Snapdragon 410E SoC. Powered by quad-core ARM®v8 Cortex®-A53 CPUs, the Inforce 6309 Micro SBC is the 3rd in the family of Snapdragon processor-based embedded computing platforms from Inforce. Unique features include support for WiFi/BLE, GPS, HDMI displays, dual-MIPI-CSI cameras, GbE ports, LVDS, and optional PoE and RS485 interfaces. With robust support for an upstream Linux kernel (Linaro) and Android (Lollipop), coupled with extended operating temperature and long lifecycle, the Inforce 6309 Micro SBC provides an ideal choice for a multitude of industrial applications.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/single-board-computers-sbc/qualcomm-snapdragon-410-inforce-6309-micro-sbc",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$126.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>

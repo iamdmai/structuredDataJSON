@@ -1,0 +1,11 @@
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "VideoObject",
+  "url" :"https://youtu.be/8Xk0TFHqXV4",
+  "name" :"Introducing the all new Inforce 6640 powered by Snapdragon 820",
+  "description" : "The New Inforce 6640 SBC is based on Qualcomm®’s first custom 64-bit quad-core processor, Snapdragon™ 820 (APQ8096 SoC) which is manufactured in an advanced 14nm FinFET Low Power Plus (LLP) fabrication process that allows faster switching speeds and lower voltage operation in a smaller footprint. With better imaging capabilities due to the Spectra™ camera ISP, an improved GPU architecture and excellent video and connectivity options, it is targeted at embedded system applications that require hi-tech smart visual technologies and intense video analytics. It supports H.265 (HEVC) playback @4K60 and capture @4K30.",
+  "uploadDate" : "17-03-23T08:00:00+08:00",
+  "duration" : "PT1M08S",
+  "thumbnailUrl" : "https://i9.ytimg.com/vi/8Xk0TFHqXV4/mq1.jpg?sqp=CICGxYAG&rs=AOn4CLBn151pNr8eGHakyrGunDrZ4RbtrQ"
+</script>

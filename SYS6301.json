@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "sku" : "SYS6301",
+  "mpn" : "SYS6301-00-P1",
+  "image" : [
+    "https://www.inforcecomputing.com/media/wysiwyg/Homepage/6301kit.png",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/6/3/6301-reference-design-diagram.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/b/a/back_2.jpg",
+    "https://www.inforcecomputing.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/f/r/front.jpg"
+  ],
+
+  "name" : "Inforce 6301™ Hardware Development Kits (SYS6301)",
+  "description" : "The Inforce 6301 Hardware Development Kits(SYS6301) Platform for embedded designers is equipped with the Inforce 6301 Micro SoM and a reference carrier board to bring out the excellent functionality and compute power of the Qualcomm Snapdragon 410E processor. This reference design enables embedded developers to create, test, prototype and optimize their products with the shortest turnaround time. Embedded developers get access to the long lifecycle Snapdragon 410E processor (APQ8016/APQ8016E SoC) with full support for Linaro Ubuntu Linux and Android OS at a very affordable price point.",
+
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "Smart Wireless Computing",
+    "logo" : "https://www.inforcecomputing.com/skin/frontend/paradigm/style1/images/inforce_logo-dark.png"
+  },
+
+  "offers" : {
+    "@type" : "Offer",
+    "url" : "https://www.inforcecomputing.com/products/reference-designs/qualcomm-snapdragon-410-inforce-6301-reference-design",
+    "itemCondition" : "https://schema.org/NewCondition",
+    "availability" : "https://schema.org/InStock",
+    "price" : "$185.00",
+    "priceCurrency": "USD"
+  },
+
+}
+</script>
