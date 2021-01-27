@@ -1,0 +1,2 @@
+# structuredDataJSON
+JSON
